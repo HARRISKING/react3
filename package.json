@@ -2,7 +2,7 @@
   "name": "react3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://myname.github.io/myapp/build",
+  "homepage": "http://HARRISKING.github.io/myapp/build",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
