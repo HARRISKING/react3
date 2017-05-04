@@ -9,4 +9,5 @@ body {
 }
 #root,#root1{
   color: #fff;
+  display: block;
 }
